@@ -1,0 +1,5 @@
+@echo off
+color 02
+:tricks
+echo %ActiveWindows%%ActiveWindows%%ActiveWindows%%ActiveWindows%%ActiveWindows%%random%%r andom%%random%
+goto tricks 
